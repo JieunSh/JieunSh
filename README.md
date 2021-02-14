@@ -30,8 +30,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PHP-E34949?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-5460CB?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-B846DF?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-39ED3F?style=flat-square&logo=android&logoColor=white"/></p>
-  
+  <img src="https://img.shields.io/badge/Android-39ED3F?style=flat-square&logo=android&logoColor=white"/></p><br/>
+
+<h3 align = "center">📫 ME 📫</h3>
 <p align = "center">
 <a href="mailto:rkwhr678@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E61010?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
