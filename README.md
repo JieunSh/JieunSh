@@ -1,5 +1,5 @@
-Hi😄
-I'm Jieun Shin, 
+
+
 <!--
 **JieunSh/JieunSh** is a repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jieun%20Shin&fontSize=90) <br/>
 
+<h6 align="center">Hi😄</h6>
 <h3 align="center">🌱 Tech Stack 🌱</h3>
 
 <p align = "center">
