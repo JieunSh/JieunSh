@@ -33,5 +33,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Android-39ED3F?style=flat-square&logo=android&logoColor=white"/></p>
   
 <p align = "center">
- <img src="https://img.shields.io/badge/Gmail-E61010?style=flat-square&logo=gmail&logoColor=white&link=mailto:rkwhr678@gmail.com"/>
+<a href="mailto:rkwhr678@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E61010?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
