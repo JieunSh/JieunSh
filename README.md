@@ -16,17 +16,21 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jieun%20Shin&fontSize=90) <br/>
 
-<center>Tech Stack</center>
+<h3 align="center">🌱 Tech Stack 🌱</h3>
 
-
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)" />
+<p align = "center">
+ <img src="https://img.shields.io/badge/JAVA-3766AB?style=flat-square&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-pink?style=flat-square&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square&logo=javascript&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/HTML5-74D0CA?style=flat-square&logo=html5&logoColor=black"/>
+ <img src="https://img.shields.io/badge/CSS3-DD39A9?style=flat-square&logo=css3&logoColor=white"/></p>
+ 
+<p align = "center">
+  <img src="https://img.shields.io/badge/PHP-E34949?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-5460CB?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-B846DF?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-39ED3F?style=flat-square&logo=android&logoColor=white"/></p>
+  
+<p align = "center">
+ <img src="https://img.shields.io/badge/Gmail-E61010?style=flat-square&logo=gmail&logoColor=white&link=(rkwhr678@gmail.com)"/>
+</p>
