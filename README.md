@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jieun%20Shin&fontSize=90) <br/>
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jieun%20Shin&fontSize=90) <br/><br/>
 
 <h6 align="center">Hi😄</h6>
-<h3 align="center">🌱 Tech Stack 🌱</h3>
+<h3 align="center">🌱 Tech Stack 🌱</h3><br/>
 
 <p align = "center">
  <img src="https://img.shields.io/badge/JAVA-3766AB?style=flat-square&logo=Java&logoColor=white"/>
@@ -33,5 +33,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Android-39ED3F?style=flat-square&logo=android&logoColor=white"/></p>
   
 <p align = "center">
- <img src="https://img.shields.io/badge/Gmail-E61010?style=flat-square&logo=gmail&logoColor=white&link=(rkwhr678@gmail.com)"/>
+ <img src="https://img.shields.io/badge/Gmail-E61010?style=flat-square&logo=gmail&logoColor=white&link=https://rkwhr678@gmail.com"/>
 </p>
