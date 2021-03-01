@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Jieun%20Shin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=170&section=header&text=Welcome%20to%20Jieun's%20Github&fontSize=45)
 
-<h3 align="center">Hi😄</h3>
+<h3 align="center">Hi😄<br/>MY name is Jieun Shin.:heart_eyes: I am interested in Java, MySQL etc...:computer:</h3><br/>
 <h3 align="center">🌱 Tech Stack 🌱</h3><br/>
 
 <p align = "center">
